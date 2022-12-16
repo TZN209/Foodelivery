@@ -1,0 +1,8 @@
+/foodelivery/__tests__
+/foodelivery/.bundle
+/foodelivery/android
+/foodelivery/ios
+/foodelivery/node_modules
+
+
+/foodelivery_backend/node_modules
